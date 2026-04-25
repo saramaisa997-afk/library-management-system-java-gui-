@@ -23,9 +23,12 @@ This application allows users to manage books with an interactive graphical inte
    java LibraryGUI
 
 ## 📸 Screenshot
+![Screenshot 1](Screenshot_20260425_123316_com_android_chrome_CustomTabActivity_edit_15501121027314.jpg)
+![Screenshot 2](Screenshot_20260425_123207_com_android_chrome_CustomTabActivity_edit_15516467492933.jpg)
+ 
 
-![Screenshot](Screenshot_20260425_123316_com_android_chrome_CustomTabActivity_edit_15501121027314.jpgScreenshot_20260425_123207_com_android_chrome_CustomTabActivity_edit_15516462492933.jpg) 
 ## 🧠 Concepts Used
+
 - Object-Oriented Programming (OOP)
 - GUI development using Swing
 - Event handling
