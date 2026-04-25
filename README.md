@@ -25,6 +25,7 @@ This application allows users to manage books with an interactive graphical inte
 ## 📸 Screenshot
 ![Screenshot 1](Screenshot_20260425_123316_com_android_chrome_CustomTabActivity_edit_15501121027314.jpg)
 ![Screenshot 2](Screenshot_20260425_123207_com_android_chrome_CustomTabActivity_edit_15516467492933.jpg)
+
  
 
 ## 🧠 Concepts Used
